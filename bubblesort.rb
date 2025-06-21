@@ -16,7 +16,3 @@ def bubble_sort(data)
   end
   return data
 end
-
-test_arr = [4,3,78,2,0,2]
-
-p bubble_sort(test_arr)
